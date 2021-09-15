@@ -1,7 +1,7 @@
 lab50: true
   window:
-    -editor
-    -readme
-    -terminal
+    - editor
+    - readme
+    - terminal
   files:
-    !include main.cpp  
+    - !include main.cpp  
